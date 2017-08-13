@@ -8,7 +8,7 @@ Download and install the dependencies:
 
 ```sh
 git clone git@github.com:feedcast/player.git
-cd plyer
+cd player
 npm install
 ```
 
